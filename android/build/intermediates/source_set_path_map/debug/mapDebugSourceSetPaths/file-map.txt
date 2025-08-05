@@ -1,0 +1,34 @@
+com.yourpackage.name-pngs-0 C:\Flutter Project\numerix\android\build\generated\res\pngs\debug
+com.yourpackage.name-resValues-1 C:\Flutter Project\numerix\android\build\generated\res\resValues\debug
+com.yourpackage.name-packageDebugResources-2 C:\Flutter Project\numerix\android\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.yourpackage.name-packageDebugResources-3 C:\Flutter Project\numerix\android\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.yourpackage.name-debug-4 C:\Flutter Project\numerix\android\build\intermediates\merged_res\debug\mergeDebugResources
+com.yourpackage.name-debug-5 C:\Flutter Project\numerix\android\src\debug\res
+com.yourpackage.name-main-6 C:\Flutter Project\numerix\android\src\main\res
+com.yourpackage.name-drawerlayout-1.1.1-7 C:\Users\skr09\.gradle\caches\8.12\transforms\0aeed02b78f179612cb39060cfa2e8d1\transformed\drawerlayout-1.1.1\res
+com.yourpackage.name-fragment-1.3.6-8 C:\Users\skr09\.gradle\caches\8.12\transforms\0e8bedc67d87ad8d114eb754868f5470\transformed\fragment-1.3.6\res
+com.yourpackage.name-jetified-savedstate-1.2.1-9 C:\Users\skr09\.gradle\caches\8.12\transforms\10ac00144c60406b2713c3d3524a7614\transformed\jetified-savedstate-1.2.1\res
+com.yourpackage.name-cardview-1.0.0-10 C:\Users\skr09\.gradle\caches\8.12\transforms\1de82bd652fcd89b799c3a826ff13ceb\transformed\cardview-1.0.0\res
+com.yourpackage.name-constraintlayout-2.1.4-11 C:\Users\skr09\.gradle\caches\8.12\transforms\23e694bdd0c64af392a7273167c668fe\transformed\constraintlayout-2.1.4\res
+com.yourpackage.name-jetified-annotation-experimental-1.3.0-12 C:\Users\skr09\.gradle\caches\8.12\transforms\379051db75ecfca1c35d2121b406e92b\transformed\jetified-annotation-experimental-1.3.0\res
+com.yourpackage.name-material-1.11.0-13 C:\Users\skr09\.gradle\caches\8.12\transforms\66e9376785acf05b71eb2f608c1331ab\transformed\material-1.11.0\res
+com.yourpackage.name-transition-1.2.0-14 C:\Users\skr09\.gradle\caches\8.12\transforms\6a7098d980e0bf14b3f78e8f56aef5a0\transformed\transition-1.2.0\res
+com.yourpackage.name-jetified-lifecycle-viewmodel-savedstate-2.6.1-15 C:\Users\skr09\.gradle\caches\8.12\transforms\6c00b3a04711cc69b87cfe86d1c38afe\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+com.yourpackage.name-jetified-core-ktx-1.12.0-16 C:\Users\skr09\.gradle\caches\8.12\transforms\779ba5c56e1d328ec476dc667841e2e9\transformed\jetified-core-ktx-1.12.0\res
+com.yourpackage.name-jetified-emoji2-views-helper-1.2.0-17 C:\Users\skr09\.gradle\caches\8.12\transforms\7a9efbc7bca458038ac7452d86e9bb99\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.yourpackage.name-jetified-lifecycle-process-2.6.1-18 C:\Users\skr09\.gradle\caches\8.12\transforms\7d1cd6b9cb59f92e0214afb822a541e1\transformed\jetified-lifecycle-process-2.6.1\res
+com.yourpackage.name-core-runtime-2.2.0-19 C:\Users\skr09\.gradle\caches\8.12\transforms\83116cd5009484640156d365820958e4\transformed\core-runtime-2.2.0\res
+com.yourpackage.name-jetified-appcompat-resources-1.6.1-20 C:\Users\skr09\.gradle\caches\8.12\transforms\87ffc025beae05a2aae3cc8a530a95ab\transformed\jetified-appcompat-resources-1.6.1\res
+com.yourpackage.name-recyclerview-1.1.0-21 C:\Users\skr09\.gradle\caches\8.12\transforms\8d19aa71be4ca3f2c4908053c8956fe4\transformed\recyclerview-1.1.0\res
+com.yourpackage.name-jetified-activity-1.8.0-22 C:\Users\skr09\.gradle\caches\8.12\transforms\94787ff68cb887bed135e0980e2c89b5\transformed\jetified-activity-1.8.0\res
+com.yourpackage.name-lifecycle-livedata-2.6.1-23 C:\Users\skr09\.gradle\caches\8.12\transforms\a56e0c4d1c16a61e23d3c1c542618bcb\transformed\lifecycle-livedata-2.6.1\res
+com.yourpackage.name-core-1.12.0-24 C:\Users\skr09\.gradle\caches\8.12\transforms\abb3de59b14d0b4aaf3957b1b827a9de\transformed\core-1.12.0\res
+com.yourpackage.name-lifecycle-livedata-core-2.6.1-25 C:\Users\skr09\.gradle\caches\8.12\transforms\b3b581116cca0446aa5d8988da2107ea\transformed\lifecycle-livedata-core-2.6.1\res
+com.yourpackage.name-lifecycle-viewmodel-2.6.1-26 C:\Users\skr09\.gradle\caches\8.12\transforms\b59cb18f8898eac0189f2999b77d049f\transformed\lifecycle-viewmodel-2.6.1\res
+com.yourpackage.name-jetified-profileinstaller-1.3.0-27 C:\Users\skr09\.gradle\caches\8.12\transforms\bc1e6adfceacb79edf3fb5e41d1ebebb\transformed\jetified-profileinstaller-1.3.0\res
+com.yourpackage.name-appcompat-1.6.1-28 C:\Users\skr09\.gradle\caches\8.12\transforms\c7f678bc846ee7a10f88fe06e4f7a058\transformed\appcompat-1.6.1\res
+com.yourpackage.name-jetified-startup-runtime-1.1.1-29 C:\Users\skr09\.gradle\caches\8.12\transforms\cdb2e2ba836fd128258717a2e645c528\transformed\jetified-startup-runtime-1.1.1\res
+com.yourpackage.name-jetified-emoji2-1.2.0-30 C:\Users\skr09\.gradle\caches\8.12\transforms\ddf44c5ed9ec169014148c1e8883aaaa\transformed\jetified-emoji2-1.2.0\res
+com.yourpackage.name-coordinatorlayout-1.1.0-31 C:\Users\skr09\.gradle\caches\8.12\transforms\f893b6e35a83ebfae7f4f55cbfef77ef\transformed\coordinatorlayout-1.1.0\res
+com.yourpackage.name-lifecycle-runtime-2.6.1-32 C:\Users\skr09\.gradle\caches\8.12\transforms\fa30ca877ec7438bf7dc72b57c6c38e5\transformed\lifecycle-runtime-2.6.1\res
+com.yourpackage.name-jetified-viewpager2-1.0.0-33 C:\Users\skr09\.gradle\caches\8.12\transforms\fcd7f5d7b9ce45553fb2ec66e251b29f\transformed\jetified-viewpager2-1.0.0\res
