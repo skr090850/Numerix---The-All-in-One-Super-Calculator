@@ -88,7 +88,7 @@ This project is currently under active development. The core functionality is in
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/skr090850/Numerix---The-All-in-One-Super-Calculator.git](https://github.com/skr090850/Numerix---The-All-in-One-Super-Calculator.git)
+    git clone https://github.com/skr090850/Numerix---The-All-in-One-Super-Calculator.git
     ```
 2.  **Install dependencies:**
     ```sh
