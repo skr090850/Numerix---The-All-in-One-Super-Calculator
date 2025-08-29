@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:numerix/widgets/custom_app_bar.dart';
 
-// Alag-alag conversion types ke liye ek enum.
 enum ConversionType { length, weight, temperature }
 
 class UnitConverterScreen extends StatefulWidget {
@@ -19,7 +18,6 @@ class UnitConverterScreen extends StatefulWidget {
 }
 
 class _UnitConverterScreenState extends State<UnitConverterScreen> {
-  // Conversion data
   late Map<String, double> _units;
   late String _fromUnit;
   late String _toUnit;
